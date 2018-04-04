@@ -1,0 +1,12 @@
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\bin\Debug\CommService.Model.dll.config
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\bin\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\bin\Debug\CommService.Model.pdb
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\obj\Debug\CommService.Model.csprojResolveAssemblyReference.cache
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\obj\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\GFund.Core.CommService.Model\obj\Debug\CommService.Model.pdb
+D:\Git\NancyWebApi\CommService.Model\bin\Debug\CommService.Model.dll.config
+D:\Git\NancyWebApi\CommService.Model\bin\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\CommService.Model\bin\Debug\CommService.Model.pdb
+D:\Git\NancyWebApi\CommService.Model\obj\Debug\CommService.Model.csprojResolveAssemblyReference.cache
+D:\Git\NancyWebApi\CommService.Model\obj\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\CommService.Model\obj\Debug\CommService.Model.pdb

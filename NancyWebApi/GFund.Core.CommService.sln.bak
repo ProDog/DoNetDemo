@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFund.Core.CommService", "GFund.Core.CommService\GFund.Core.CommService.csproj", "{E945E104-2687-4637-AE33-6EECBF157E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gfund.Core.CommService.Common", "Gfund.Core.CommService.Common\Gfund.Core.CommService.Common.csproj", "{03B5D107-DF55-40CA-9F8F-3EC8BE5FE5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gfund.Core.CommService.Model", "Gfund.Core.CommService.Model\Gfund.Core.CommService.Model.csproj", "{707E5ADD-7AF4-48BD-9202-F3D91A536EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gfund.Core.CommService.Db", "Gfund.Core.CommService.Db\Gfund.Core.CommService.Db.csproj", "{37102BF8-8CC2-4F47-96B7-35ADFB88225E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFund.Core.CommService.Controller", "GFund.Core.CommService.Controller\GFund.Core.CommService.Controller.csproj", "{7139BB41-38DE-4B55-B9D3-99350869A511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E945E104-2687-4637-AE33-6EECBF157E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E945E104-2687-4637-AE33-6EECBF157E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E945E104-2687-4637-AE33-6EECBF157E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E945E104-2687-4637-AE33-6EECBF157E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B5D107-DF55-40CA-9F8F-3EC8BE5FE5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B5D107-DF55-40CA-9F8F-3EC8BE5FE5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B5D107-DF55-40CA-9F8F-3EC8BE5FE5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B5D107-DF55-40CA-9F8F-3EC8BE5FE5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707E5ADD-7AF4-48BD-9202-F3D91A536EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707E5ADD-7AF4-48BD-9202-F3D91A536EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707E5ADD-7AF4-48BD-9202-F3D91A536EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707E5ADD-7AF4-48BD-9202-F3D91A536EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37102BF8-8CC2-4F47-96B7-35ADFB88225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37102BF8-8CC2-4F47-96B7-35ADFB88225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37102BF8-8CC2-4F47-96B7-35ADFB88225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37102BF8-8CC2-4F47-96B7-35ADFB88225E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7139BB41-38DE-4B55-B9D3-99350869A511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7139BB41-38DE-4B55-B9D3-99350869A511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7139BB41-38DE-4B55-B9D3-99350869A511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7139BB41-38DE-4B55-B9D3-99350869A511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

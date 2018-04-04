@@ -1,0 +1,16 @@
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\bin\Debug\CommService.Common.dll.config
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\bin\Debug\CommService.Common.dll
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\bin\Debug\CommService.Common.pdb
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\bin\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\bin\Debug\CommService.Model.pdb
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\obj\Debug\CommService.Common.csprojResolveAssemblyReference.cache
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\obj\Debug\CommService.Common.dll
+D:\Git\NancyWebApi\GFund.Core.CommService.Common\obj\Debug\CommService.Common.pdb
+D:\Git\NancyWebApi\CommService.Common\bin\Debug\CommService.Common.dll.config
+D:\Git\NancyWebApi\CommService.Common\bin\Debug\CommService.Common.dll
+D:\Git\NancyWebApi\CommService.Common\bin\Debug\CommService.Common.pdb
+D:\Git\NancyWebApi\CommService.Common\bin\Debug\CommService.Model.dll
+D:\Git\NancyWebApi\CommService.Common\bin\Debug\CommService.Model.pdb
+D:\Git\NancyWebApi\CommService.Common\obj\Debug\CommService.Common.csprojResolveAssemblyReference.cache
+D:\Git\NancyWebApi\CommService.Common\obj\Debug\CommService.Common.dll
+D:\Git\NancyWebApi\CommService.Common\obj\Debug\CommService.Common.pdb

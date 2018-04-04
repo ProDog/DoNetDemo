@@ -1,0 +1,44 @@
+2018-04-04 11:23:33,285 [10] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 11:23:34,218 [10] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 11:28:49,401 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 11:28:49,882 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 12:08:37,900 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 12:08:38,379 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:03:37,526 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:03:38,070 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:07:50,853 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:07:51,402 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:12:30,726 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:12:31,133 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:29:49,520 [10] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:29:49,923 [10] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:31:52,490 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:31:52,857 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:33:24,960 [10] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:33:25,331 [10] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:36:09,126 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:36:09,517 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
+2018-04-04 13:56:38,686 [9] [GFund.Core.CommService.Controller.ServiceManager:24] DEBUG ServiceManager - Starting
+ 
+2018-04-04 13:56:39,083 [9] [GFund.Core.CommService.Controller.ServiceManager:26] INFO  ServiceManager - Start:http://+:7080
+ 
