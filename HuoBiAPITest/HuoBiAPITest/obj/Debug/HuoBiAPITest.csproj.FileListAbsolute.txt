@@ -1,0 +1,7 @@
+F:\VSProject\HuobiAPITest\HuoBiAPITest\HuoBiAPITest\bin\Debug\HuoBiAPITest.exe.config
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\bin\Debug\HuoBiAPITest.exe.config
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\bin\Debug\HuoBiAPITest.exe
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\bin\Debug\HuoBiAPITest.pdb
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\obj\Debug\HuoBiAPITest.csprojResolveAssemblyReference.cache
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\obj\Debug\HuoBiAPITest.exe
+F:\VSProject\HuoBiAPITest\HuoBiAPITest\obj\Debug\HuoBiAPITest.pdb
