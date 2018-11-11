@@ -1,6 +1,0 @@
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\bin\Debug\GFund.Core.CommService.Model.dll.config
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\bin\Debug\GFund.Core.CommService.Model.dll
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\bin\Debug\GFund.Core.CommService.Model.pdb
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\obj\Debug\GFund.Core.CommService.Model.dll
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\obj\Debug\GFund.Core.CommService.Model.pdb
-D:\App\GFund.Core.CommService\trunk\GFund.Core.CommService.Model\obj\Debug\GFund.Core.CommService.Model.csprojResolveAssemblyReference.cache
